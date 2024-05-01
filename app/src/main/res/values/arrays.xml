@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="theme_options">
+        <item>Light theme</item>
+        <item>Dark theme</item>
+        <item>System default</item>
+    </string-array>
+
+    <string-array name="gender_options">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="smoking_options">
+        <item>No</item>
+        <item>Occasionally</item>
+        <item>Yes, Heavily</item>
+    </string-array>
+
+    <string-array name="social_class_options">
+        <item>Low class</item>
+        <item>Middle class</item>
+        <item>High class</item>
+    </string-array>
+
+    <string-array name="education_options">
+        <item>High School</item>
+        <item>Undergraduate</item>
+        <item>Graduate</item>
+    </string-array>
+
+    <string-array name="relationship_options">
+        <item>Single</item>
+        <item>Married</item>
+    </string-array>
+
+    <string-array name="diabetic_options">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="job_status_options">
+        <item>Yes</item>
+        <item>No</item>
+        <item>I\'m retired</item>
+    </string-array>
+
+    <string-array name="bmi_options">
+        <item>Less than 18 (underweight)</item>
+        <item>18–25 (normal weight)</item>
+        <item>25–30 (overweight)</item>
+        <item>30 and above (obese)</item>
+    </string-array>
+
+    <string-array name="exercise_options">
+        <item>None</item>
+        <item>Moderate</item>
+        <item>High</item>
+    </string-array>
+
+    <string-array name="alcohol_options">
+        <item>None</item>
+        <item>Moderate (1–2 drinks per day)</item>
+        <item>Heavy (more than 2 drinks per day)</item>
+        <item>Binge drinking (4 or more drinks on one occasion)</item>
+    </string-array>
+
+    <string-array name="diet_quality_options">
+        <item>Poor</item>
+        <item>Fair</item>
+        <item>Good</item>
+        <item>Excellent</item>
+    </string-array>
+
+    <string-array name="stress_level_options">
+        <item>Low</item>
+        <item>Moderate</item>
+        <item>High</item>
+    </string-array>
+
+    <string-array name="sleep_quality_options">
+        <item>Poor</item>
+        <item>Fair</item>
+        <item>Good</item>
+        <item>Excellent</item>
+    </string-array>
+
+    <string-array name="access_to_healthcare_options">
+        <item>Limited/no access</item>
+        <item>Basic access</item>
+        <item>Adequate access</item>
+        <item>Excellent access</item>
+    </string-array>
+
+    <string-array name="environmental_condition_options">
+        <item>Low pollution</item>
+        <item>Moderate pollution</item>
+        <item>High pollution</item>
+    </string-array>
+
+    <string-array name="genetic_predisposition_options">
+        <item>None</item>
+        <item>Family history of heart disease</item>
+        <item>Family history of diabetes</item>
+        <item>Family history of cancer</item>
+        <item>Other genetic predispositions</item>
+    </string-array>
+
+    <string-array name="tab_options">
+        <item>Basic</item>
+        <item>Advanced</item>
+    </string-array>
+
+
+</resources>
